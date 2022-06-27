@@ -1,6 +1,6 @@
 # Linear_Regression1
  
-This is an attempt at linear regression using python, sklearn, jupyter 
+linear regression using python, sklearn, jupyter 
 
 exercise taken from:
 
